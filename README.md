@@ -5,8 +5,7 @@ Düzenle
 # 🛡️ AssassinDeauth – Shadow Wireless Disruption Tool
 
 vbnet
-Kopyala
-Düzenle
+
   ▄████████  ▄██████▄   ▄█          ▄████████    ▄████████ 
  ███    ███ ███    ███ ███         ███    ███   ███    ███ 
  ███    █▀  ███    ███ ███         ███    █▀    ███    ███ 
@@ -18,8 +17,7 @@ Düzenle
                         ▀                                
    ⚔ Built in the shadows by Miço | Deauth in silence ⚔
 yaml
-Kopyala
-Düzenle
+
 
 ## ❗ Disclaimer
 
@@ -48,8 +46,7 @@ sudo apt install aircrack-ng
 🛰️ Usage
 🎯 Targeted Deauth Attack
 bash
-Kopyala
-Düzenle
+
 sudo python3 assassindeauth.py -i wlan0mon -a 11:22:33:44:55:66 -t AA:BB:CC:DD:EE:FF -r 300
 💣 Broadcast Deauth (All Clients)
 bash
@@ -93,18 +90,5 @@ Crafted in the shadows, run in silence, and vanish before you're seen.
 Use wisely, hacker...
 
 less
-Kopyala
-Düzenle
-#anonymous  #assassinscreed  #deauth  #wifi  #pentest  #python  #miço
-yaml
-Kopyala
-Düzenle
 
----
-
-İstersen README'ye GIF veya terminal animasyonu da ekleyebiliriz. Bu dokümana ek olarak proje dosyasını da oluşturayım mı miço?
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
 **– gölgelerde yazılan, ışığı susturan bir araç…**
